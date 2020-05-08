@@ -1,0 +1,25 @@
+body {
+  font-family: "Montserrat Alternates";
+  font-size: 40px;
+  margin: 0;
+  background-color: #30314b;
+  color: #afa0d9;
+  text-align: center;
+}
+
+.logo {
+  margin: 150px auto;
+  padding-left: 24px;
+  width: 180px;
+  border: 5px solid #333333;
+  text-align: center;
+  text-transform: uppercase;
+  word-wrap: break-word;
+  letter-spacing: 24px;
+  font-size: 72px;
+}
+
+
+
+
+
