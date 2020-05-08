@@ -1,5 +1,5 @@
 body {
-  font-family: "Montserrat Alternates";
+  font-family: "Roboto", "Arial", sans-serif;
   font-size: 40px;
   margin: 0;
   background-color: #30314b;
@@ -8,6 +8,8 @@ body {
 }
 
 .logo {
+  font-family: 'Monoton', cursive;
+  font-family: 'Montserrat Alternates', sans-serif;
   margin: 150px auto;
   padding-left: 24px;
   width: 180px;
